@@ -4,19 +4,15 @@ This repo tracks my progress on the Blind75 list.
 
 > Blind 75 list is a curated collection of 75 essential coding interview questions to master for technical interviews.
 
-## Question List
-
 ##  Arrays & Strings
 
-These are the building blocks for many other data structures and algorithms. Mastering them is a crucial first step. 튼튼한 기반!
-
-- [ ] **Two Sum** - [LeetCode Link](https://leetcode.com/problems/two-sum/)
-- [ ] **Best Time to Buy and Sell Stock** - [LeetCode Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] **Contains Duplicate** - [LeetCode Link](https://leetcode.com/problems/contains-duplicate/)
-- [ ] **Product of Array Except Self** - [LeetCode Link](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] **Maximum Subarray** - [LeetCode Link](https://leetcode.com/problems/maximum-subarray/)
-- [ ] **Maximum Product Subarray** - [LeetCode Link](https://leetcode.com/problems/maximum-product-subarray/)
-- [ ] **Find Minimum in Rotated Sorted Array** - [LeetCode Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x] **Two Sum** - [LeetCode Link](https://leetcode.com/problems/two-sum/)
+- [x] **Best Time to Buy and Sell Stock** - [LeetCode Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] **Contains Duplicate** - [LeetCode Link](https://leetcode.com/problems/contains-duplicate/)
+- [x] **Product of Array Except Self** - [LeetCode Link](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] **Maximum Subarray** - [LeetCode Link](https://leetcode.com/problems/maximum-subarray/)
+- [x] **Maximum Product Subarray** - [LeetCode Link](https://leetcode.com/problems/maximum-product-subarray/)
+- [x] **Find Minimum in Rotated Sorted Array** - [LeetCode Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] **Search in Rotated Sorted Array** - [LeetCode Link](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] **3Sum** - [LeetCode Link](https://leetcode.com/problems/3sum/)
 - [ ] **Container With Most Water** - [LeetCode Link](https://leetcode.com/problems/container-with-most-water/)
@@ -35,8 +31,6 @@ These are the building blocks for many other data structures and algorithms. Mas
 
 ## Linked Lists
 
-A fundamental data structure to understand pointers and memory. 🔗
-
 - [ ] **Reverse a Linked List** - [LeetCode Link](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] **Detect a Cycle in a Linked List** - [LeetCode Link](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] **Merge Two Sorted Lists** - [LeetCode Link](https://leetcode.com/problems/merge-two-sorted-lists/)
@@ -47,8 +41,6 @@ A fundamental data structure to understand pointers and memory. 🔗
 ---
 
 ## Trees
-
-Essential for understanding hierarchical data and recursion. 🌳
 
 - [ ] **Maximum Depth of Binary Tree** - [LeetCode Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] **Same Tree** - [LeetCode Link](https://leetcode.com/problems/same-tree/)
@@ -69,8 +61,6 @@ Essential for understanding hierarchical data and recursion. 🌳
 
 ## Heaps
 
-Great for problems involving priority, ordering, and finding the k-th smallest/largest elements. 🔥
-
 - [ ] **Merge K Sorted Lists** - [LeetCode Link](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] **Top K Frequent Elements** - [LeetCode Link](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] **Find Median from Data Stream** - [LeetCode Link](https://leetcode.com/problems/find-median-from-data-stream/)
@@ -78,8 +68,6 @@ Great for problems involving priority, ordering, and finding the k-th smallest/l
 ---
 
 ## Graphs
-
-Often considered one of the more challenging topics; tackle these after you are comfortable with trees. 🕸️
 
 - [ ] **Clone Graph** - [LeetCode Link](https://leetcode.com/problems/clone-graph/)
 - [ ] **Course Schedule** - [LeetCode Link](https://leetcode.com/problems/course-schedule/)
@@ -93,8 +81,6 @@ Often considered one of the more challenging topics; tackle these after you are 
 ---
 
 ## Dynamic Programming
-
-Often the most challenging topic. DP problems require you to break down a problem into smaller, overlapping sub-problems. 🧠
 
 - [ ] **Climbing Stairs** - [LeetCode Link](https://leetcode.com/problems/climbing-stairs/)
 - [ ] **Coin Change** - [LeetCode Link](https://leetcode.com/problems/coin-change/)
@@ -111,8 +97,6 @@ Often the most challenging topic. DP problems require you to break down a proble
 ---
 
 ## Other Categories (From Original List)
-
-These categories often overlap with the ones above but are sometimes grouped separately.
 
 ### Binary
 
