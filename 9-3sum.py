@@ -22,5 +22,3 @@ class Solution:
                         left += 1
         
         return res
-
-print(Solution().threeSum([-1,0,1,2,-1,-4]))
